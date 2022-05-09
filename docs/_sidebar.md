@@ -55,6 +55,7 @@
   * [mall-swarm在Windows环境下的部署](deploy/mall_swarm_deploy_windows.md)
   * [mall-swarm在Linux环境下的部署（基于Docker容器）](deploy/mall_swarm_deploy_docker.md)  
   * [微服务架构下的自动化部署，使用Jenkins来实现！](deploy/mall_swarm_deploy_jenkins.md)  
+  * [mall-swarm微服务项目在K8S下的实践！](deploy/mall_swarm_deploy_k8s.md)
   * [我常用的自动化部署技巧，贼好用，推荐给大家！](technology/springboot_auto_deploy.md)
 
 * 进阶篇
@@ -78,6 +79,8 @@
   * [Spring Cloud Alibaba：Sentinel实现熔断与限流](cloud/sentinel.md)
   * [使用Seata彻底解决Spring Cloud中的分布式事务问题](cloud/seata.md)
   * [微服务权限终极解决方案，Spring Cloud Gateway + Oauth2 实现统一认证和鉴权！](cloud/gateway_oauth2.md)
+  * [我扒了半天源码，终于找到了Oauth2自定义处理结果的最佳方案！](cloud/oauth2_custom.md)
+  * [微服务聚合Swagger文档，这波操作是真的香！](cloud/knife4j_cloud.md)
   
 * 参考篇
   * [开发者必备Mysql命令](reference/mysql.md)
@@ -113,10 +116,19 @@
   * [还在手写任务调度代码？试试这款可视化分布式调度框架！](reference/power_job_start.md)
   * [微服务应用性能如何？APM监控工具来告诉你！](reference/elastic_apm_start.md)
   * [RabbitMQ实现即时通讯居然如此简单！连后端代码都省得写了？](reference/rabbitmq_mqtt_start.md)
-  *[SpringBoot官方支持任务调度框架，轻量级用起来也挺香！](reference/quartz_start.md)
+  * [SpringBoot官方支持任务调度框架，轻量级用起来也挺香！](reference/quartz_start.md)
   * [Nginx如何支持HTTPS？手把手教贼简单！](reference/nginx_https_start.md)
   * [还在手动整合Swagger？Swagger官方Starter是真的香！](reference/swagger_starter.md)
-
+  * [MySQL如何实时同步数据到ES？试试这款阿里开源的神器！](reference/canal_start.md)
+  * [肝了一周总结的SpringBoot实战教程，太实用了！](reference/springboot_start.md)
+  * [Elasticsearch官方已支持SQL查询，用起来贼方便！](reference/elasticsearch_sql_start.md)
+  * [还在使用第三方Docker插件？SpringBoot官方插件真香！](reference/springboot_docker_plugin.md)
+  * [当Swagger遇上YApi，瞬间高大上了！](reference/yapi_start.md)
+  * [DockerHub访问慢怎么破？自建个企业级镜像仓库试试！](reference/harbor_start.md)
+  * [解放双手！MyBatis官方代码生成工具给力！](reference/mybatis_generator_start.md)
+  * [Lombok有啥牛皮的？SpringBoot和IDEA官方都要支持它！](reference/lombok_start.md)
+  * [干掉mapper.xml！MyBatis新特性动态SQL真香！](reference/mybatis_dynamic_sql.md)
+  * [数据库迁移搞炸了！没用这款开源神器的锅？](reference/flyway_start.md)
 
 * 工具篇
   * [IDEA常用设置及推荐插件](reference/idea.md)
@@ -133,4 +145,8 @@
   * [IDEA同款数据库管理工具，提示太全了，用起来贼香！](reference/datagrip_start.md)
   * [写了100多篇原创文章，我常用的在线工具网站推荐给大家！](reference/my_web_tools.md)
   * [线上项目出BUG没法调试？推荐这款阿里开源的诊断神器！](reference/arthas_start.md)
+  * [被我用烂的DEBUG调试技巧，专治各种搜索不到的问题！](reference/my_debug_skill.md)
+  * [Github标星 8K+，免费又好用的Redis客户端工具！](reference/redis_desktop_start.md)
+  * [Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！](reference/swagger_postman.md)
+  * [干掉Navicat！MySQL官方客户端到底行不行？](reference/mysql_workbench.md)
   
